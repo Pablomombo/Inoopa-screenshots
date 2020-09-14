@@ -1,2 +1,2 @@
 # Inoopa-screenshots
-Screenshots of the application based with Vue.js
+Screenshots of the application with Vue.js
